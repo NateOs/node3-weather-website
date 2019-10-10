@@ -1,5 +1,3 @@
-console.log('Client side javascript is loaded')
-
 //fetching query results from browser
 // fetch('http://localhost:3000/weather?address=accra').then((response) => {
 //     response.json().then((data) => {
